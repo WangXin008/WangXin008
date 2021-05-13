@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm WangXin 王鑫, a Product Manager | Technical Writer.
+
 ![WangXin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangXin008&show_icons=true&theme=tokyonight)
