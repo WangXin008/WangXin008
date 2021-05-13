@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm WangXin 王鑫, a Product Manager | Technical Writer currently living in Shanghai,China.
 
-Mainly focused on following domains:
+**Mainly focused on following domains:**
 
 - 😄 Translation management
 - 🌱 Technical writing
